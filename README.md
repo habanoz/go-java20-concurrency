@@ -4,7 +4,7 @@ Java implementation of Go Tour Concurrency Examples
 Most of the go code is simply copied from [Official Go Tour Page](https://go.dev/tour/concurrency/1)
 Only exercise codes are added.
 
-Java implementations are based on **Java 20**.
+Java implementations are based on **Java 20**. Not tested but Java 19 should also work.
 
 ## Approach
 
