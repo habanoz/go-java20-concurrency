@@ -21,8 +21,8 @@ Virtual threads are only available for preview in Java 20. So it is required to 
 | Goroutines                        | [link](go-concurrency/goroutines.go)              | [link](java20-concurrency/src/main/java/org/example/Goroutines.java)            |
 | Channels                          | [link](go-concurrency/channels.go)                | [link](java20-concurrency/src/main/java/org/example/Channels.java)              |
 | Buffered Channels                 | [link](go-concurrency/buffered_channels.go)       | [link](java20-concurrency/src/main/java/org/example/BufferedChannels.java)      |
-| Range and Close                   | [link](go-concurrency/range_and_close.go)         | [link](java20-concurrency/src/main/java/org/example/RandAndClose.java)          |
-| Select                            | [link](go-concurrency/select.go)                  | [link](java20-concurrency/src/main/java/org/example/Selectjava)                 |
+| Range and Close                   | [link](go-concurrency/range_and_close.go)         | [link](java20-concurrency/src/main/java/org/example/RangAndClose.java)          |
+| Select                            | [link](go-concurrency/select.go)                  | [link](java20-concurrency/src/main/java/org/example/Select.java)                 |
 | Default Selection                 | [link](go-concurrency/default_selection.go)       | [link](java20-concurrency/src/main/java/org/example/DefaultSelection.java)      |
 | Exercise: Equivalent Binary Trees | [link](go-concurrency/equivalent_binary_trees.go) | [link](java20-concurrency/src/main/java/org/example/EquivalentBinaryTrees.java) |
 | sync.Mutex                        | [link](go-concurrency/sync_mutex.go)              | [link](java20-concurrency/src/main/java/org/example/SyncMutex.java)             |
