@@ -20,8 +20,7 @@ public class DefaultSelection {
             executorService.submit(() -> {
                 while (run.get()) {
 
-                    Integer polled = signal.poll();
-                    switch (polled) {
+                    switch (signal.poll()) {
                         case null -> defaultRunnable.run();
                         case 0 -> tasks[0].run();
                         case 1 -> tasks[1].run();
