@@ -6,6 +6,8 @@ Only exercise codes are added.
 
 Java implementations are based on **Java 20**. Not tested but Java 19 should also work.
 
+Check out my [blog post](https://habanoz.github.io/tech-feed/workshop/implementing-go-concurrency-java20/) about this work.
+
 ## Approach
 
 Java codes are tried to be as close as to the Go codes. When applicable similar features are used. When a similar feature is absent, it is tried to be devised using builtin java constructs.
